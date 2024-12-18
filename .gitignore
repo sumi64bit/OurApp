@@ -3,4 +3,9 @@ bin/
 obj/
 
 # Ignore the Code::Blocks project file
-OurApp.cbp
+*.cdb
+*.workspace
+*.vcproj
+*.vcproj.filters
+*.user
+*.sln
