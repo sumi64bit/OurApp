@@ -4,4 +4,5 @@ using namespace std;
 int main()
 {
     cout << "this is our first app!";
+    return 0;
 }
