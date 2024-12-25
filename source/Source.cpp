@@ -1,6 +1,11 @@
-#include <iostream>
+# include<iostream>
+using namespace std;
 
-int main() {
-    std::cout << "hello";
-    return 0;
+int main()
+{
+    int a=5,b=3,c=a+b;
+    cout<< c <<endl;
+    return 0 ;
+
+
 }
